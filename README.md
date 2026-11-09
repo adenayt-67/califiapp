@@ -60,4 +60,4 @@ califiapp/
 | HU-04 | Mostrar reporte del grupo | 3 |
 
 Tablero del proyecto: (pega aquí la liga de tu GitHub Project)
-Práctica 6 completada desde Linux Mint.
+Práctica 6 completada desde Linux Mint. 
